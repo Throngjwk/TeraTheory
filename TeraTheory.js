@@ -12,7 +12,7 @@ var version = 1;
 
 var currency, currency_A, currency_M;
 var c1, c2, w1, w2, w3, w4, p1;
-var c1Exp, c2Exp, w1Exp, w2Exp, w3Exp, w4Exp, q1Exp;
+var c1Exp, c2Exp, w1Exp, w2Exp, w3Exp, w4Exp, P1Exp;
 
 var achievement1, achievement2;
 var chapter1, chapter2;
